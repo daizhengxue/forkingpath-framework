@@ -2,6 +2,8 @@
 
 A React-based application for visualizing and managing branching dialogue conversations with AI integration. This project allows users to create, visualize, and navigate through multiple conversation branches while maintaining a clear visual representation of the dialogue history.
 
+![Forking Path](public/image/forkingpath.png)
+
 ## Features
 
 - **Interactive Timeline Visualization**: Visualize conversation branches in a dynamic, draggable graph
